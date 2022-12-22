@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: cf5f76cc-97bb-47c8-b504-21a6babf5d17
-  WEBAPP-NAME: az400-webapp-chappidiv
+  WEBAPP-NAME: az400-webapp-bhavij
 
 
 jobs:
